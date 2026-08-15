@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-us-free-02.tickhosting.com",
+    "ip": "node-us-free-02.tickhosting.com:61077",
     "port": 61077,
     "version": "",
     "try-creative": false
